@@ -19,3 +19,10 @@ _Italicizing a text_
 If aplly a text quote then:
 
 >text quoted
+
+**Using backticks** like it: `to shoow` modify graph _text_
+
+```
+one
+two
+```

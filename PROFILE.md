@@ -13,3 +13,5 @@ _Italicizing a text_
 **Combinig bold and _Italic forms_ also is possible**
 
 **Combining more _forms_ and <sub>_made_</sub> it** or <sup>other</sup>
+
+**And underline** a <ins>text</ins> is easy...

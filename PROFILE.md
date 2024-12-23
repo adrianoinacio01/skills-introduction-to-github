@@ -5,8 +5,11 @@
 ##### Five
 ###### Sixx
 **Using Bold**
+
 _Italicizing a text_
+
 ~~Strikethrough~~
+
 **Combinig bold and _Italic forms_ also is possible**
 
-**Combining more _forms_ and <sub>_made_</sub> it**
+**Combining more _forms_ and <sub>_made_</sub> it** or <sup>other</sup>

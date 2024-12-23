@@ -1,3 +1,23 @@
+> [!NOTE]
+> Useful information that users should know.
+
+> [!TIP]
+> Helful advice.
+
+> [!important]
+> Key information.
+
+> [!warning]
+> Urgent information.
+
+>[!caution]
+> Advises about risks.
+
+Here a simple footnote.[^1]
+
+[^1]: Here the explain.
+
+
 @gitHub/support How I do it?
 
 

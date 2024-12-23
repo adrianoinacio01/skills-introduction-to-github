@@ -7,3 +7,4 @@
 **Using Bold**
 _Italicizing a text_
 ~~Strikethrough~~
+**Combinig bold and _Italic forms_ also is possible**

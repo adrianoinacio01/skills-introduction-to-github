@@ -26,3 +26,5 @@ If aplly a text quote then:
 one
 two
 ```
+
+The background `#ffffff` or `#000000` or`#22222`

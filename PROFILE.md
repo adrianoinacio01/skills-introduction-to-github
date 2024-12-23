@@ -1,6 +1,9 @@
+@gitHub/support How I do it?
+
+
 - [ ] first
 - [ ] second
-- [ ] #thrid
+- [x] #thrid
 
 
 100. First Line

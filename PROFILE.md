@@ -15,3 +15,7 @@ _Italicizing a text_
 **Combining more _forms_ and <sub>_made_</sub> it** or <sup>other</sup>
 
 **And underline** a <ins>text</ins> is easy...
+
+If aplly a text quote then:
+
+>text quoted

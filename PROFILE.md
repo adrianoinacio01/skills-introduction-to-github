@@ -5,3 +5,4 @@
 ##### Five
 ###### Sixx
 **Using Bold**
+_Italicizing a text_

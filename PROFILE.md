@@ -1,3 +1,23 @@
+![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://myoctocat.com/assets/images/base-octocat.svg)
+
+
+LINE BREAKS  
+  
+LINE BREAK TYPE TWO\
+LINE BREAK TIPE THREE<br/>
+
+
+
+Some body text of this section.
+
+<a name="anchor1"></a>
+Some text I want to provide a direct link to, but which doesn't have its own heading.
+
+(… more content…)
+
+[A link to that custom anchor](#anchor1)
+
+
 [Contribution 
 guidelines for this project](skills-introduction-to-github/README.md)
 

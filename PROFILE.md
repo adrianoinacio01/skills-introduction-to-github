@@ -6,3 +6,4 @@
 ###### Sixx
 **Using Bold**
 _Italicizing a text_
+~~Strikethrough~~
